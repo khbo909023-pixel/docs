@@ -1,22 +1,22 @@
 ---
-title: Getting started with Git
-intro: 'Learn the basics of Git by working through an example scenario.'
-topics:
-  - Copilot
-  - Git
-  - Desktop
-versions:
-  fpt: '*'
-shortTitle: Get started with Git
+العنوان: البدء مع جيت
+مقدمة: "تعلم أساسيات Git من خلال العمل من خلال سيناريو مثال".
+المواضيع:
+  - انا ابط
+  - جيت.
+  - سطح المكتب.
+الإصدارات:
+ FPT: '*' 
+العنوان: ابدأ مع Git
 ---
 
-Have you ever wished you had a time machine for your code? Well, Git is exactly that, and so much more!
+هل تمنيت يوماً أن يكون لديك آلة زمن لرمزك؟ حسنا، جيت هو بالضبط ذلك، وأكثر من ذلك بكثير!
 
-If you aren't familiar with Git, it's a **version control** system that helps you keep track of changes to your code. You can save a snapshot of your project at a particular point in time, then make experimental changes without risking your work, since you can always go back to your snapshot.
+إذا لم تكن على دراية بـ Git، فهي **التحكم في الإصدار.** النظام الذي يساعدك على تتبع التغييرات في الكود الخاص بك. يمكنك حفظ لقطة من مشروعك في وقت معين، ثم إجراء تغييرات تجريبية دون المخاطرة بعملك، حيث يمكنك دائمًا العودة إلى لقطة الخاص بك.
 
-{% data variables.product.github %} itself is a platform built around Git, letting you save your Git projects to the cloud and work on them with other developers.
+{% data variables.product.github%} نفسها هي منصة مبنية حول Git، مما يتيح لك حفظ مشاريع Git الخاصة بك على السحابة والعمل عليها مع مطورين آخرين.
 
-While Git can be complicated, it's a powerful and necessary tool for any developer. This article will give you all the tools you need to use Git in your day-to-day workflow.
+في حين أن Git يمكن أن يكون معقدًا، إلا أنه أداة قوية وضرورية لأي مطور. ستمنحك هذه المقالة جميع الأدوات التي تحتاجها لاستخدام Git في سير عملك اليومي.
 
 ## Prerequisites
 
